@@ -4,10 +4,13 @@
 <h1 align="center">
 nusrat.dev
 </h1>
-----
-<div align="center">
-[![npm version](https://badge.fury.io/js/survey-monkey-streams.svg)](//npmjs.com/package/survey-monkey-streams)
-</div>
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/jahan-nusrat/personal-site) ![GitHub contributors](https://img.shields.io/github/contributors/jahan-nusrat/personal-site?color=%23FFF222&logo=GitHub) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jahan-nusrat/personal-site?color=%23E74292)
+
+![GitHub top language](https://img.shields.io/github/languages/top/jahan-nusrat/personal-site?color=%23FAC42F)
+
+
 ## :rocket: Building and Running for Production
 1.Generate a full static production build
 ```bash
