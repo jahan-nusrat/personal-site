@@ -1,8 +1,11 @@
 # personal-site
 
 <div align="center">
-<img src="src/images/logo.png" width="150" alt="logo">
+<img src="src/images/feature.png" width="100" alt="logo"/>
 </div>
 <h1 align="center">
 nusrat.dev
 </h1>
+
+## 🛠 Installation & Set Up
+
