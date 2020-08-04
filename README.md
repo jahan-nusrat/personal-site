@@ -17,3 +17,12 @@ nusrat.dev
 |Lightest Slate |![#ccd6f6](https://placehold.it/120x40/ccd6f6/FFFFFF?text=ccd6f6)|
 |White          |![#e6f1ff](https://placehold.it/120x40/e6f1ff/FFFFFF?text=e6f1ff)|
 |Green          |![#64ffda](https://placehold.it/120x40/64ffda/FFFFFF?text=64ffda)|
+
+## :fork_and_knife: Forking this repo
+<p>Many people have contacted me asking me if they can use this code for their own websites. The answer to that question is usually "yes", with attribution. There are some cases, such as using this code for a business or something that is greater than a personal project, that I may be less comfortable saying yes to. If in doubt, please don't hesitate to ask me.
+
+I value keeping this site open source, but as you all know,
+_**plagiarism is bad**_. I spent a non-negligible amount of effort developing, designing, and trying to perfect this iteration of my website, and I am proud of it! All I ask is to not claim this effort as your own.
+
+So, feel free to fork this repo. 
+</p>
