@@ -29,7 +29,7 @@ open with live server
 |Green          |![#64ffda](https://placehold.it/120x40/64ffda/FFFFFF?text=64ffda)|
 
 ## :fork_and_knife: Forking this repo
-<p>I value keeping this site open source, but as you all know <span style="color:red"><em><b>plagiarism is bad</b></em></span>. I spent a non-negligible amount of effort developing, designing, and trying to perfect this iteration of my website, and I am proud of it! All I ask is to not claim this effort as your own.
+<p>I value keeping this site open source, but as you all know <span style="color:red"><em><b>:x: plagiarism is bad :x:</b></em></span>. I spent a non-negligible amount of effort developing, designing, and trying to perfect this iteration of my website, and I am proud of it! All I ask is to not claim this effort as your own.
 
 There are some cases, such as using this code for a business or something that is greater than a personal project, that I may be less comfortable saying `yes` to. If in doubt, please don't hesitate to ask me. 
 
