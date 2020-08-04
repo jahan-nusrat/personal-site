@@ -4,7 +4,10 @@
 <h1 align="center">
 nusrat.dev
 </h1>
-
+----
+<div align="center">
+[![npm version](https://badge.fury.io/js/survey-monkey-streams.svg)](//npmjs.com/package/survey-monkey-streams)
+</div>
 ## :rocket: Building and Running for Production
 1.Generate a full static production build
 ```bash
@@ -35,3 +38,4 @@ There are some cases, such as using this code for a business or something that i
 
 So, feel free to :fork_and_knife: `fork` this repo.
 </p>
+[![version](https://img.shields.io/badge/version-1.0.1-yellow.svg)](https://semver.org)
