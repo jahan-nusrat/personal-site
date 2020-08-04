@@ -7,11 +7,11 @@ nusrat.dev
 
 ## :rocket: Building and Running for Production
 1.Generate a full static production build
-```
+```bash
 node script.js
 ```
 2.Preview the site as it will appear once deployed
-```
+```bash
 open with live server
 ```
 
