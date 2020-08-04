@@ -5,6 +5,16 @@
 nusrat.dev
 </h1>
 
+## :rocket: Building and Running for Production
+1.Generate a full static production build
+```
+node script.js
+```
+2.Preview the site as it will appear once deployed
+```
+open with live server
+```
+
 ## :art: Color Reference
 
 |Color          |Hex                                                              |
