@@ -41,4 +41,3 @@ There are some cases, such as using this code for a business or something that i
 
 So, feel free to :fork_and_knife: `fork` this repo.
 </p>
-[![version](https://img.shields.io/badge/version-1.0.1-yellow.svg)](https://semver.org)
