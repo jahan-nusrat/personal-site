@@ -1,5 +1,5 @@
 <div align="center">
-<img src="src/images/feature.png" width="100" alt="logo"/>
+<img src="images/logo.png" width="100" alt="logo"/>
 </div>
 <h1 align="center">
 nusrat.dev
